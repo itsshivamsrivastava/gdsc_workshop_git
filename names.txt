@@ -1,2 +1,5 @@
 hey, My name is Shivam Srivastava.
 Hey gdsc workshop.
+git init
+git add .
+git commit
